@@ -6,3 +6,5 @@ Name
 Blood Type
 Address
 Donor Center
+Gender
+
